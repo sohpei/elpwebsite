@@ -58,3 +58,9 @@ height: 100%;
         width: 60%;
     }
 }
+
+@media screen and (max-width: 55em) {
+  .video {
+    width: 100px;
+  }
+}
